@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0.3</value>
+  <value name="version">1.0.1</value>
   <value name="name">Test_Versioning_Project_Long_Text_VeProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -14,13 +14,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">11</value>
+  <value name="build">12</value>
   <null name="description"/>
   <value name="created_date">24-04-2026 05:00:51 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-04-27T09:59:45.344392106Z</value>
+  <value name="lastUpdated">2026-04-27T10:02:12.487585921Z</value>
   <value name="wmProjectId">flf32ceb3d65bc47799dc2e1c881b35b8d</value>
   <value name="creator">Santhosh K</value>
 </Values>
